@@ -1,0 +1,24 @@
+h1{
+    color: aqua;
+}
+.prowl{
+    color: rgb(160,158,95);
+}
+.disk{
+width:100px;
+}
+.speed{
+float :left;
+}
+.volume{
+    float :right;
+    }
+    #volume{
+        color:aliceblue;
+        background-color: aquamarine;
+        font-size: 20px;
+        padding:10px;
+    }
+    canvas{
+        border: 5px solid blanchedalmond;
+    }
